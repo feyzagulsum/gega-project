@@ -1,0 +1,13 @@
+{
+  "name": "proje-adi",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./input.css -o ./public/css/styles.css"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
+
